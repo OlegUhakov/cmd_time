@@ -1,1 +1,8 @@
-cmd /c date 01/01/2030
+# This is a programm to change time
+Using:
+1. Download main.exe
+2. Run it
+4. The first button "Start". Time will change  on 01.01.2030
+5. The second button 'Back' will take time back
+
+![GitHub Logo](https://github.com/OlegUhakov/cmd_time/blob/main/CMD.png)
